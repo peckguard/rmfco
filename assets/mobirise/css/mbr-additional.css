@@ -1383,12 +1383,12 @@ body {
 }
 .cid-raJiyIf5At .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-raJiyIf5At .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-raJiyIf5At a {
   font-style: normal;
@@ -1476,7 +1476,7 @@ body {
   padding-bottom: 0;
 }
 .cid-raJiyIf5At .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
